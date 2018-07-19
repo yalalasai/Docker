@@ -22,7 +22,8 @@ Step 3:
 
 	Open Commandprompt with admin privilages and enter the following command from anywhere
 	
-	#Ensure Hypervisor is set to auto start in the Boot Configuration Database (BCD) by running in elevated command prompt the 		
+	#Ensure Hypervisor is set to auto start in the Boot Configuration Database (BCD) by running in elevated command prompt the 
+	
 	command:
 	
 	bcdedit /set hypervisorlaunchtype Auto
