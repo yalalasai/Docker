@@ -27,3 +27,4 @@ Step 3:
 	command:
 	
 	bcdedit /set hypervisorlaunchtype Auto
+	edited by maruthi
